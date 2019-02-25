@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+except.so
+except.dylib
+except.dll
+except.a
+except.lib
+except-test-*
+*.exe
+*.o
+*.obj
+*.lst

@@ -1,0 +1,9 @@
+{
+	"description": "List A except B",
+	"license": "MIT",
+	"authors": [
+		"Michael Fadely"
+	],
+	"copyright": "Copyright © 2019, Michael Fadely",
+	"name": "except"
+}
