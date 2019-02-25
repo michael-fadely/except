@@ -29,7 +29,7 @@ void main(string[] args)
 			return;
 		}
 
-			bool[string] set;
+		bool[string] set;
 
 		File(pathB).byLine()
 		           .map!(strip)
